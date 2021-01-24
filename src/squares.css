@@ -1,0 +1,27 @@
+
+.whiteb{
+    background-color: white;
+    color: white;
+    height: 30px;
+    width:30px;
+    
+}
+
+.blackb{
+    background-color: black;
+    color: black;
+    height: 30px;
+    width: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    .whiteb{
+      padding: 0px;
+      background-color: aqua;
+    }
+    .blackb{
+        padding: 0px;
+        background-color: aqua;
+      }
+  }
+  
